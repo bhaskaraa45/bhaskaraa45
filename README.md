@@ -4,7 +4,7 @@
 <b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith"> </b>
 <br>
 <br>
-<b>Interested in everything related to Tech!</b>
+<b>Interested in everything related to Tech! <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/c3581db1fe0e89ffe192e9a403b58cecba5d5176/icons/androidDev.svg" height="40" alt="iith"></b>
 
 <br>
 <br>
