@@ -1,14 +1,37 @@
 - 👋 <b><i>Hi, I’m Bhaskar</i></b>
-- 👀 I’m Undergard Student at IIT Hyderabad.
+- 👀 A Undergard Student at IIT Hyderabad.
 - 🌱 Interested in everything related to Tech!
 
 
-<h2>Social</h2>
+<h2>Social Profiles</h2>
+<p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
+  <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" alt="instagram" ></a> 
+ <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" alt="facebook"></a>     
+  <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/telegram.svg" height="50" alt ="telegram"></a> </p>
+
+<br>
+<br>
+
+<h2>Coding Profiles</h1>
+<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="55" alt="gfg"></a>   
+  <a href="https://leetcode.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/leetcode.svg" height="45" alt="leetcode"></a> 
+  <a href="https://www.codechef.com/users/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codechef.svg" height="50" alt="codechef" ></a>  
+  <a href="https://codeforces.com/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codeforces.svg" height="50" alt="codeforces" ></a>   
+  <a href="https://www.hackerrank.com/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/hackerrank.svg" height="50" alt="hackerrank" ></a>
+</p> 
+
+<br>
+<br>
+<br>
+<hr>
+<h3>Languages :</h2>
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskaraa45&count_private=true&show_icons=true&theme=transparent)                                                          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraa45)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaskaraa45)](https://git.io/streak-stats)
 
 
