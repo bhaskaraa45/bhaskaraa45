@@ -4,19 +4,28 @@
 
 
 <h2>Social Profiles</h2>
-<p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a> <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" ></a>   <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" ></a>     <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/telegram.svg" height="50" ></a> </p>
+<p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
+  <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" alt="instagram" ></a> 
+ <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" alt="facebook"></a>     
+  <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/telegram.svg" height="50" alt ="telegram"></a> </p>
 
 <br>
 <br>
 
 <h2>Coding Profiles</h1>
-<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="55" ></a>   <a href="https://leetcode.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/leetcode.svg" height="45" ></a> <a href="https://www.codechef.com/users/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codechef.svg" height="50" ></a>  <a href="https://codeforces.com/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codeforces.svg" height="50" ></a>   <a href="https://www.hackerrank.com/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/hackerrank.svg" height="50" ></a>
+<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="55" alt="gfg"></a>   
+  <a href="https://leetcode.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/leetcode.svg" height="45" alt="leetcode"></a> 
+  <a href="https://www.codechef.com/users/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codechef.svg" height="50" alt="codechef" ></a>  
+  <a href="https://codeforces.com/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/codeforces.svg" height="50" alt="codeforces" ></a>   
+  <a href="https://www.hackerrank.com/bhaskar_aa45" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/hackerrank.svg" height="50" alt="hackerrank" ></a>
 </p> 
 
 <br>
 <br>
 <br>
 <hr>
+<h3>Languages :</h2>
+
 
 
 
