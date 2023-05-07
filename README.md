@@ -4,7 +4,7 @@
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?bhaskaraa45.bhaskaraa45=jwenjian.visitor-badge)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskaraa45)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
