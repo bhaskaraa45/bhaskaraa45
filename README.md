@@ -3,6 +3,7 @@
 <b>A Undergard Student at IIT Hyderabad</b>
 <br>
 <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith" >
+<br>
 <b>Interested in everything related to Tech!</b>
 
 <br>
