@@ -4,7 +4,7 @@
 
 
 <h2>Social</h2>
-<a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a> <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" ></a>   <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" ></a> 
+<a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a> <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" ></a>   <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" ></a>     <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/telegram.svg" height="50" ></a> 
 
 
 
