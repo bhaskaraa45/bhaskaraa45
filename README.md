@@ -1,7 +1,8 @@
  <h3><i>Hi, I’m Bhaskar</i></h3> <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="40" alt="iith" >
 <b>A Undergard Student at IIT Hyderabad</b> <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith" >
-Interested in everything related to Tech!
+<b>Interested in everything related to Tech!</b>
 
+<br>
 <br>
 <h2>Social Profiles</h2>
 <p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
