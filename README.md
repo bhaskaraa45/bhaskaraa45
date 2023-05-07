@@ -3,7 +3,7 @@
 <h3><i>Hi, I’m Bhaskar</i></h3>   
 <br>
 
-<b>A Undergard Student at IIT Hyderabad  img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith"</b>
+<b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith"> </b>
 <br>
 <br>
 <b>Interested in everything related to Tech!</b>
