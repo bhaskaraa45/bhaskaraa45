@@ -1,6 +1,5 @@
 -  <b><i>Hi, I’m Bhaskar</i></b>
--  <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="50" alt="java" >
--  A Undergard Student at IIT Hyderabad.
+-  A Undergard Student at IIT Hyderabad. <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="50" alt="java" >
 -  Interested in everything related to Tech!
 
 <br>
