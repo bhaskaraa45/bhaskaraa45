@@ -1,8 +1,8 @@
-<b><i>Hi, I’m Bhaskar</i></b>   <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="40" alt="iith" >  
+<b><i>Hi, I’m Bhaskar</i></b>   <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="50" alt="hi" >  
 <br>
 <b>A Undergard Student at IIT Hyderabad</b>
 <br>
-<img align="right" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith" >
+<img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="40" alt="iith" >
 <br>
 <b>Interested in everything related to Tech!</b>
 
