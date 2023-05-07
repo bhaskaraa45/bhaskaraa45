@@ -22,7 +22,7 @@
 
 <br>
 <br>
-<h3>Languages : </h2>
+<h3>Known Languages : </h2>
 <p>
 <img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/java.svg" height="50" alt="java" >
 <img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/cplusplus.svg" height="50" alt="c++" >
