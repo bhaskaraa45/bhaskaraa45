@@ -3,7 +3,7 @@
 - 🌱 Interested in everything related to Tech!
 
 
-<h1>Social</h1>
+<h2>Social</h2>
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaskaraa45)](https://git.io/streak-stats)
