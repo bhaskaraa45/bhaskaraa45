@@ -1,4 +1,4 @@
-- 👋 _Hi, I’m Bhaskar
+- 👋 Hi, I’m Bhaskar
 - 👀 I’m Undergard Student at IIT Hyderabad.
 - 🌱 Interested in everything related to Tech!
 
