@@ -4,6 +4,8 @@
 
 
 <h2>Social</h2>
+<a href="inkedin.com/in/bhaskaraa45/" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg)" height="100" /></a>
+
 
 
 
