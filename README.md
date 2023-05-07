@@ -4,7 +4,7 @@
 
 
 <h2>Social</h2>
-<a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img allign="left src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a>
+<a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a>
 
 
 
