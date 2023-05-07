@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhaskar
-- 👀 I’m interested in Web & Software development
-- 🌱 I’m currently learning HTML & CSS , C++
+- 👀 I’m Undergard Student at IIT Hyderabad.
+- 🌱 Interested in everything related to Tech!
 
 <!---
 bhaskaraa45/bhaskaraa45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
