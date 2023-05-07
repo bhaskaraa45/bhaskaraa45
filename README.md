@@ -3,7 +3,7 @@
 - 🌱 Interested in everything related to Tech!
 
 
--<strong><big>Social</big></strong>
+-<strong><big><big>Social</big></big></strong>
 
 
 
