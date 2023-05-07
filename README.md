@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="50" alt="hi" >  
 <br><br>
-<b><i>Hi, I’m Bhaskar</i></b>   
+<h3><i>Hi, I’m Bhaskar</i></h3>   
 <br>
 <br>
 <b>A Undergard Student at IIT Hyderabad</b>
