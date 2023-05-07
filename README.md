@@ -1,5 +1,5 @@
 - 👋 <b><i>Hi, I’m Bhaskar</i></b>
-- 👀 I’m Undergard Student at IIT Hyderabad.
+- 👀 A Undergard Student at IIT Hyderabad.
 - 🌱 Interested in everything related to Tech!
 
 
