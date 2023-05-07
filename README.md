@@ -5,7 +5,7 @@
 
 <h2>Social Profiles</h2>
 <p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/linkedin.svg" height="50" ></a> <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/instagram.svg" height="50" ></a>   <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/facebook.svg" height="50" ></a>     <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/telegram.svg" height="50" ></a> </p>
-
+<br>
 <h2>Coding Profiles</h1>
 <p> <a href="[https://www.t.me/bhaskar_aa45/](https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="50" ></a>
 
