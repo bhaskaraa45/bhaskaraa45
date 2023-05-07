@@ -1,4 +1,4 @@
-- 👋 <b>Hi, I’m Bhaskar</b>
+- 👋 <b><i>Hi, I’m Bhaskar</i></b>
 - 👀 I’m Undergard Student at IIT Hyderabad.
 - 🌱 Interested in everything related to Tech!
 
