@@ -2,7 +2,7 @@
 - 👀 A Undergard Student at IIT Hyderabad.
 - 🌱 Interested in everything related to Tech!
 
-
+<br>
 <h2>Social Profiles</h2>
 <p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
   <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/instagram.svg" height="50" alt="instagram" ></a> 
