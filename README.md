@@ -9,11 +9,10 @@
 <br>
 <br>
 
-<p>
 <h2>Coding Profiles</h1>
-<p> <a href="[https://www.t.me/bhaskar_aa45/](https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="50" ></a> </p>
+<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/geeksforgeeks.svg" height="50" ></a>    </p> 
 
-</p>
+
 
 
 
