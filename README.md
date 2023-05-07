@@ -1,5 +1,4 @@
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="50" alt="hi" >  
-<br><br>
 <h3><i>Hi, I’m Bhaskar</i></h3>   
 <b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="30" alt="iith"> </b>
 <br>
