@@ -1,6 +1,7 @@
-- 👋 <b><i>Hi, I’m Bhaskar</i></b>
-- 👀 A Undergard Student at IIT Hyderabad.
-- 🌱 Interested in everything related to Tech!
+-  <b><i>Hi, I’m Bhaskar</i></b>
+-  <img align="center" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="50" alt="java" >
+-  A Undergard Student at IIT Hyderabad.
+-  Interested in everything related to Tech!
 
 <br>
 <h2>Social Profiles</h2>
