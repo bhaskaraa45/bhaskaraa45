@@ -1,7 +1,7 @@
 
 <img align="left" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50" alt="hi" >  
 <h3><i>Hi, I’m Bhaskar</i></h3>   
-<b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/indian-institute-of-technology-hyderabad-indian-institute-of-technology-madras-university-of-hyderabad-indian-institute-of-technology-kanpur-indian-institute-of-technology-jodhpur-technology-ed34d382ed9691517309a82f2a7d475a.png" height="30" alt="iith"> </b>
+<b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="30" alt="iith"> </b>
 <br>
 <br>
 <b>Interested in everything related to Tech! <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/c3581db1fe0e89ffe192e9a403b58cecba5d5176/icons/androidDev.svg" height="30" alt="iith"></b>
