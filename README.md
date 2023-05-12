@@ -1,4 +1,5 @@
-<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/giphy.gif" height="50" alt="hi" >  
+
+<img align="left" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50" alt="hi" >  
 <h3><i>Hi, I’m Bhaskar</i></h3>   
 <b>A Undergard Student at IIT Hyderabad <img align="centre" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/iith.png" height="30" alt="iith"> </b>
 <br>
@@ -15,6 +16,7 @@
 
 <br>
 <br>
+<br>
 
 <h2>Coding Profiles</h1>
 <p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/geeksforgeeks.svg" height="55" alt="gfg"></a>   
@@ -26,9 +28,11 @@
 
 <br>
 <br>
+<br>
+<br>
 <h3>Known Languages : </h2>
 <p>
-<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/java.svg" height="50" alt="java" >
+<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/java.svg" height="50" alt="java" description = "java" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/cplusplus.svg" height="50" alt="c++" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/c.svg" height="50" alt="c" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/python.svg" height="50" alt="python" >
