@@ -9,7 +9,7 @@
 <br>
 <br>
 <h2>Social Profiles</h2>
-<p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
+<p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-linkedin.svg" height="50" alt="LinkedIn" ></a>
   <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-instagram.svg" height="50" alt="instagram" ></a> 
  <a 
   <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-facebook.svg" height="50" alt="facebook"></a>     
