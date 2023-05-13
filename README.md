@@ -35,7 +35,7 @@
 <p>
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-java.svg" height="50" alt="java" description = "java" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c++.svg" height="50" alt="c++" >
-<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-cprogramming.svg" height="50" alt="c" >
+<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c-programming.svg" height="50" alt="c" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-python.svg" height="50" alt="python" >
   </p>
   <br>
