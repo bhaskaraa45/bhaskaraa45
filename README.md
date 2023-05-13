@@ -20,7 +20,7 @@
 <br>
 
 <h2>Coding Profiles</h1>
-<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/GeeksforGeeks.svg" height="40" alt="gfg"></a>   
+<p> <a href="https://auth.geeksforgeeks.org/user/bhaskar_aa45/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/GeeksforGeeks.svg" height="37" alt="gfg"></a>   
   <a href="https://leetcode.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/LeetCode_logo_white_no_text.svg" height="40" alt="leetcode"></a> 
   <a href="https://www.codechef.com/users/bhaskar_aa45" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-codechef.svg" height="40" alt="codechef" ></a>  
   <a href="https://codeforces.com/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-codeforces.-programming-competitions-and-contests%2C-programming-community.-96(-xxxhdpi).png" height="40" alt="codeforces" ></a>   
