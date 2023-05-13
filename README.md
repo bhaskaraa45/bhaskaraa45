@@ -33,7 +33,7 @@
 <br>
 <h3>Known Languages : </h2>
 <p>
-<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/java.svg" height="50" alt="java" description = "java" >
+<img align="left" src="https://github.com/bhaskaraa45/bhaskaraa45/blob/main/icons/colored/icons8-java.gif" height="50" alt="java" description = "java" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/cplusplus.svg" height="50" alt="c++" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/c.svg" height="50" alt="c" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/python.svg" height="50" alt="python" >
