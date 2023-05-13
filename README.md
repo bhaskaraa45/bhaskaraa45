@@ -12,7 +12,7 @@
 <p><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/linkedin.svg" height="50" alt="LinkedIn" ></a>
   <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/instagram.svg" height="50" alt="instagram" ></a> 
  <a 
-  <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-facebook-circled%20(1).gif" height="50" alt="facebook"></a>     
+  <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-facebook-circled%20(1).gif" height="60" alt="facebook"></a>     
   <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/telegram.svg" height="50" alt ="telegram"></a> </p>
 
 <br>
