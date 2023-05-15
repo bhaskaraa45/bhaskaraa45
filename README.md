@@ -36,6 +36,7 @@
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c++.svg" height="50" alt="c++" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c-programming.svg" height="50" alt="c" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-python.svg" height="50" alt="python" >
+  <img align ="left" src=https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/1a6c533f22330a08909d237713b77549820e1fdc/icons/colored/dart-programming-language-icon.svg height='50' alt="dart" >
   </p>
   <br>
   <br>
