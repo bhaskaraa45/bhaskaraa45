@@ -30,13 +30,17 @@
 <br>
 <br>
 <br>
-<h3>Known Languages : </h2>
+<h3>Known Languages/Frameworks/Technolgies : </h2>
 <p>
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-java.svg" height="50" alt="java" description = "java" >
+<img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/icons8-flutter.svg" height="50" alt="java" description = "flutter" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c++.svg" height="50" alt="c++" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-c-programming.svg" height="50" alt="c" >
 <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-python.svg" height="50" alt="python" >
   <img align ="left" src=https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/1a6c533f22330a08909d237713b77549820e1fdc/icons/colored/dart-programming-language-icon.svg height='45' alt="dart" >
+  <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/icons8-git.svg" height="50" alt="git" >
+  <img align="left" src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/icons8-android-studio.svg" height="50" alt="android-studio" >
+  
   </p>
   <br>
   <br>
