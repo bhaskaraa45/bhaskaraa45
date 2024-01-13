@@ -19,10 +19,16 @@
 </p>
 
 ---
-                                                         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraa45&theme=dark)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraa45&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskaraa45&theme=dark)-->
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhaskaraa45&theme=dark)
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhaskaraa45&theme=dark" alt="GitHub Streak" />
+</div>
 
 ---
 
