@@ -1,0 +1,201 @@
+
+\documentclass[a4paper,8pt]{article}
+
+\usepackage{parskip} 
+\usepackage{hologo}
+\usepackage{fontspec}
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9, top=.4in, bottom=.4in]{geometry}
+
+%tabularx environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+\setlength{\fullcollw}{0.42\textwidth}
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{1pt}{2pt}{2pt}
+
+%for publications
+\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\color[HTML]{110223}%{1C033C}
+\addbibresource{citations.bib}
+\setlength\bibitemsep{1em}
+
+%for social icons
+\usepackage{fontawesome5}
+% \usepackage{times}
+
+% For underline
+\usepackage[normalem]{ulem}
+
+\setmainfont{Arial}  % Set it to whatever you like
+
+\begin{document}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\color[HTML]{1C033C} \Huge{Bhaskar Mandal} \\[6pt]
+\\
+\textcolor[HTML]{371e77}{\underline{\href{mailto:hello@bhaskaraa45.me}{\raisebox{-0.05\height}{\faEnvelope} hello@bhaskaraa45.me}} $|$}
+\textcolor[HTML]{371e77}{\underline{\href{mailto:ms22btech11010@iith.ac.in}{\raisebox{-0.05\height}{\faEnvelope} ms22btech11010@iith.ac.in}} $|$}
+% \textcolor[HTML]{371e77}{\href{tel:+525513219900}{\raisebox{-0.05\height}{\faMobile} +52 (00) 1234-5678}}
+
+\textcolor[HTML]{371e77}{\underline{\href{https://github.com/bhaskaraa45}{\raisebox{-0.05\height}{\faGithub} github.com/bhaskaraa45}} $|$}
+\textcolor[HTML]{371e77}{\underline{\href{https://linkedin.com/in/bhaskaraa45}{\raisebox{-0.05\height}{\faLinkedin} linkedin.com/in/bhaskaraa45}}}
+\end{tabularx}
+
+% Education
+\section{Education}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{Indian Institute of Technology, Hyderabad} & \hfill \color[HTML]{371e77} 2022-2026 \\
+\color[HTML]{371e77} B.Tech in Materials Science and Metallurgical Engineering 
+
+\end{tabularx}
+
+
+%Experience
+\section{Experience}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\textbf{\uline{Lambda, IITH}} \hfill \color[HTML]{371e77} Aug. 2023 - Present \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{Core Member}}\ \hfill \color[HTML]{4B28A4} \textit{Python, Flutter, Firebase} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Working on IITH dashboard project. Flutter based frontend and FastAPI based backend. I'm working on OAuth2.
+    \end{itemize}
+\end{minipage}
+\end{tabularx}
+
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{Sunshine, IITH}} \hfill \color[HTML]{371e77} Aug. 2023 - Apr. 2024 \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{App-Web Team Member}}\ \hfill \color[HTML]{4B28A4} \textit{NextJS, Flutter, DialogFlow, Firebase} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Built an app for Sunshine, IITH. Its basically flutter app which use dialogflow for ChatBot feature and firebase for database and auth.
+        \item Also built new website for the sunshine community. ({\href{https://sunshune.iith.ac.in}{sunshune.iith.ac.in}})
+    \end{itemize}
+\end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{PicaPool} \hfill \color[HTML]{371e77}  \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{Frontend Developer}} \hfill \color[HTML]{4B28A4} \textit{Flutter, Google Maps, PSQL} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Working as frontend dev. Worked on PicaPool user app and Partner App.
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+% Projects
+\section{Projects}
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{\href{https://url.bhaskaraa45.me/}{URL Shrink}}} \hfill \color[HTML]{371e77} {\href{https://url.bhaskaraa45.me/source}{Source Code}} \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{GoLang and React Application for shrinking large URLs}} \hfill \color[HTML]{4B28A4} \textit{GoLang, ReactJs, PostgreSQL} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Cookie based Google's OAuth2 implemented, used PSQL for database and mapping URLs.
+        \item Just minimal designed frontend built using ReactJs, and complete(strong) Go (gin) backend.
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{ChatHub}} \hfill \color[HTML]{371e77} {\href{https://github.com/oAndBtech/private_chat}{Source Code}}\\[4pt]
+\color[HTML]{371e77}\textbf{\textit{A private cross-platform chat app }} \hfill \color[HTML]{4B28A4} \textit{Flutter, GoLang, PostgreSQL, FCM} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Used Flutter for frontend, GoLang (gorilla/mux) for backend and PSQL for database. Proper FCM (Firebase Cloud Messaging) implemented for notifications.
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{\href{https://www.picapool.com/}{PicaPool and PicaPool Partner}}} \hfill \color[HTML]{371e77} \\[4pt]
+\color[HTML]{371e77}\textbf{\textit{A pooling platform}} \hfill \color[HTML]{4B28A4} \textit{Flutter} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item I worked on frontend design, auth, socket, fcm and state management for both the app.
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{\href{https://sunshine.iith.ac.in/}{Sunshine App and Website}}} \hfill \color[HTML]{371e77} {\href{https://play.google.com/store/apps/details?id=com.sunshine.iith}{App Link}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{NextJs based static website and Flutter-Firebase mobile application}} \hfill \color[HTML]{4B28A4} \textit{NextJs, Flutter, Firebase, Dialogflow} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Full functional app with features of booking slot, and a ChatBot. 
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{Initial Commit}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/initial-commit}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Firefox \& Chrome extension for finding initial commit of a public repo.)}} \hfill \color[HTML]{4B28A4} \textit{Javascript, Github APIs} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        % \item 
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{\href{https://tictactoe.bhaskaraa45.me/}{Tic-Tac-Toe}}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/tic-tac-toe}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Multiplayer(2) tic tac toe online game :)}} \hfill \color[HTML]{4B28A4} \textit{Golang(Gin), gorilla/mux socket, ReactJs} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        % \item just basic designed tic-tac-toe game
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\begin{tabularx}{\linewidth}{ @{}l r@{} }
+\color[HTML]{1C033C} \textbf{\uline{Gymtrack}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/gymtrack}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Multiplayer(2) tic tac toe online game :)}} \hfill \color[HTML]{4B28A4} \textit{Golang(Gin), Flutter} \\[5pt]
+\begin{minipage}[t]{\linewidth}
+    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
+        \item Token based OAuth2, and used PSQL for the database
+    \end{itemize}
+    \end{minipage}
+\end{tabularx}
+
+\color[HTML]{1C033C}\textbf{Few More Projects} \\[2pt]
+\color[HTML]{371e77} \hspace*{4ex} {\href{https://github.com/bhaskaraa45/filesharing}{File Sharing}}, {\href{https://github.com/bhaskaraa45/CodeRevision-android-app}{Code Revision}}\\[12pt]
+
+
+\section{Skills}
+\color[HTML]{1C033C}\textbf{Languages:} \\[2pt]
+\color[HTML]{371e77} \hspace*{4ex} Java, Go, C/C++, Python, Javascript, Dart, Typescript\\[3pt]
+\color[HTML]{1C033C}\textbf{Frontend:} \\[2pt]
+\color[HTML]{371e77} \hspace*{4ex} Flutter, ReactJs, Android Native (Java)\\[3pt]
+\color[HTML]{1C033C}\textbf{Backend \& Database:} \\[2pt]
+\color[HTML]{371e77} \hspace*{4ex} Go/Gin, FastAPI, PostgreSQL\\[3pt]
+\color[HTML]{1C033C}\textbf{Miscellaneous} \\[2pt]
+\color[HTML]{371e77} \hspace*{4ex} Git/Github, Linux, Firebase, Hosting, DialogFlow \\[3pt]
+
+\end{document}
