@@ -1,201 +1,255 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
 
-\documentclass[a4paper,8pt]{article}
+\documentclass[letterpaper,11pt]{article}
 
-\usepackage{parskip} 
-\usepackage{hologo}
-\usepackage{fontspec}
-
-%other packages for formatting
-\RequirePackage{color}
-\RequirePackage{graphicx}
-\usepackage[usenames,dvipsnames]{xcolor}
-\usepackage[scale=0.9, top=.4in, bottom=.4in]{geometry}
-
-%tabularx environment
-\usepackage{tabularx}
-
-%for lists within experience section
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
 \usepackage{enumitem}
-
-% centered version of 'X' col. type
-\newcolumntype{C}{>{\centering\arraybackslash}X} 
-
-%to prevent spillover of tabular into next pages
-\usepackage{supertabular}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
 \usepackage{tabularx}
-\newlength{\fullcollw}
-\setlength{\fullcollw}{0.42\textwidth}
+\input{glyphtounicode}
 
-%custom \section
-\usepackage{titlesec}				
-\usepackage{multicol}
-\usepackage{multirow}
 
-%CV Sections inspired by: 
-%http://stefano.italians.nl/archives/26
-\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{1pt}{2pt}{2pt}
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
 
-%for publications
-\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
 
-%Setup hyperref package, and colours for links
-\usepackage[unicode, draft=false]{hyperref}
-\color[HTML]{110223}%{1C033C}
-\addbibresource{citations.bib}
-\setlength\bibitemsep{1em}
 
-%for social icons
-\usepackage{fontawesome5}
-% \usepackage{times}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
-% For underline
-\usepackage[normalem]{ulem}
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
 
-\setmainfont{Arial}  % Set it to whatever you like
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \begin{document}
 
-% non-numbered pages
-\pagestyle{empty} 
+%----------HEADING----------
+
+\begin{center}
+    \textbf{\Huge \scshape Bhaskar Mandal} \\ \vspace{1pt}
+    \small +91 9647598624 $|$ \href{mailto:hello@bhaskaraa45.me}{\underline{hello@bhaskaraa45.me}} $|$ 
+    \href{https://linkedin.com/in/bhaskaraa45}{\underline{linkedin.com/in/bhaskaraa45}} $|$
+    \href{https://github.com/bhaskaraa45}{\underline{github.com/bhaskaraa45}}
+\end{center}
 
 
-\begin{tabularx}{\linewidth}{@{} C @{}}
-\color[HTML]{1C033C} \Huge{Bhaskar Mandal} \\[6pt]
-\\
-\textcolor[HTML]{371e77}{\underline{\href{mailto:hello@bhaskaraa45.me}{\raisebox{-0.05\height}{\faEnvelope} hello@bhaskaraa45.me}} $|$}
-\textcolor[HTML]{371e77}{\underline{\href{mailto:ms22btech11010@iith.ac.in}{\raisebox{-0.05\height}{\faEnvelope} ms22btech11010@iith.ac.in}} $|$}
-% \textcolor[HTML]{371e77}{\href{tel:+525513219900}{\raisebox{-0.05\height}{\faMobile} +52 (00) 1234-5678}}
-
-\textcolor[HTML]{371e77}{\underline{\href{https://github.com/bhaskaraa45}{\raisebox{-0.05\height}{\faGithub} github.com/bhaskaraa45}} $|$}
-\textcolor[HTML]{371e77}{\underline{\href{https://linkedin.com/in/bhaskaraa45}{\raisebox{-0.05\height}{\faLinkedin} linkedin.com/in/bhaskaraa45}}}
-\end{tabularx}
-
-% Education
+%-----------EDUCATION-----------
 \section{Education}
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{Indian Institute of Technology, Hyderabad} & \hfill \color[HTML]{371e77} 2022-2026 \\
-\color[HTML]{371e77} B.Tech in Materials Science and Metallurgical Engineering 
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      {Bachelor of Technology in Materials Science and Metallurgical Engineering}{Oct. 2022 -- Present}
+      \resumeSubheading
+      {Mozampur HSSB High School}{Malda, India}
+      {High School}{Jul. 2020 -- Apr. 2022}
+    \resumeSubheading
+      {Kaliachak Abasik Mission}{Malda, India}
+      {High School}{Jan. 2017 -- Feb. 2020}
+  \resumeSubHeadingListEnd
 
-\end{tabularx}
 
-
-%Experience
+%-----------EXPERIENCE-----------
 \section{Experience}
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\textbf{\uline{Lambda, IITH}} \hfill \color[HTML]{371e77} Aug. 2023 - Present \\[4pt]
-\color[HTML]{371e77}\textbf{\textit{Core Member}}\ \hfill \color[HTML]{4B28A4} \textit{Python, Flutter, Firebase} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Working on IITH dashboard project. Flutter based frontend and FastAPI based backend. I'm working on OAuth2.
-    \end{itemize}
-\end{minipage}
-\end{tabularx}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {App Dev Head at Lambda (Software Development Club)}{May 2024 -- Present}
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      \resumeItemListStart
+        \resumeItem{Rewrote the IITH Dashboard from a PWA to a Flutter app, resulting in increased overall satisfaction from the student community.}
+        \resumeItem{Migrated the cab-sharing website to the new dashboard app, ensuring seamless integration and improved user experience.}
+        \resumeItem{Building and maintaining websites for the SciTech clubs.}
+        \resumeItem{Leading a team of 25 cores to work on projects.}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+   % \resumeSubSubheading
+   %  {Core Team}{June 2023 - April 2024}
+   %  \resumeItemListStart
+   %     \resumeItem
+   %       {Worked on implementation of IITH Dashboard frontend side.}
+   %  \resumeItemListEnd
+   % \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {Web Head at E-Cell IITH}{May 2024 -- Present}
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      \resumeItemListStart
+        \resumeItem{Built a portal for a hackathon will be conducted by E-Cell in collaboration with NPCI.}
+        \resumeItem{Working on implementation of a new E-Cell website.}
+        \resumeItem{Leading a team of 4 managers and working with them.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Core at Lambda (Software Development Club)}{July 2023 -- April 2024}
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      \resumeItemListStart
+        \resumeItem{Worked on new implementation of IITH Dashboard frontend and auth part.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {App-Web Team Member at Sunshine (Counselling Cell)}{Jun 2023 -- April 2024}
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      \resumeItemListStart
+        \resumeItem{Built an \href{https://play.google.com/store/apps/details?id=com.sunshine.iith}{\underline{app}} for Sunshine, IITH. Its basically Flutter app which use Dialogflow for ChatBot feature and Firebase for database (RTDB) and auth.}
+        \resumeItem{Worked on new implementation of the main \href{https://sunshine.iith.ac.in}{\underline{website}}.}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Frontend Developer at PicaPool}{}
+      {Indian Institute of Technology, Hyderabad}{Hyderabad, India}
+      \resumeItemListStart
+        \resumeItem{Worked as a frontend developer, and built two apps \href{https://play.google.com/store/apps/details?id=com.picapool&hl=en&gl=IN}{\underline{PicaPool}} and \href{https://play.google.com/store/apps/details?id=com.picapool.partner&hl=en&gl=IN}{\underline{PicaPool Partner}}.}
+        \resumeItem{Worked on new implementation of the main \href{https://sunshine.iith.ac.in}{\underline{website}}.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
 
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{Sunshine, IITH}} \hfill \color[HTML]{371e77} Aug. 2023 - Apr. 2024 \\[4pt]
-\color[HTML]{371e77}\textbf{\textit{App-Web Team Member}}\ \hfill \color[HTML]{4B28A4} \textit{NextJS, Flutter, DialogFlow, Firebase} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Built an app for Sunshine, IITH. Its basically flutter app which use dialogflow for ChatBot feature and firebase for database and auth.
-        \item Also built new website for the sunshine community. ({\href{https://sunshune.iith.ac.in}{sunshune.iith.ac.in}})
-    \end{itemize}
-\end{minipage}
-\end{tabularx}
-
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{PicaPool} \hfill \color[HTML]{371e77}  \\[4pt]
-\color[HTML]{371e77}\textbf{\textit{Frontend Developer}} \hfill \color[HTML]{4B28A4} \textit{Flutter, Google Maps, PSQL} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Working as frontend dev. Worked on PicaPool user app and Partner App.
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
-
-% Projects
+%-----------PROJECTS-----------
 \section{Projects}
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{\href{https://url.bhaskaraa45.me/}{URL Shrink}}} \hfill \color[HTML]{371e77} {\href{https://url.bhaskaraa45.me/source}{Source Code}} \\[4pt]
-\color[HTML]{371e77}\textbf{\textit{GoLang and React Application for shrinking large URLs}} \hfill \color[HTML]{4B28A4} \textit{GoLang, ReactJs, PostgreSQL} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Cookie based Google's OAuth2 implemented, used PSQL for database and mapping URLs.
-        \item Just minimal designed frontend built using ReactJs, and complete(strong) Go (gin) backend.
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{URL Shrink} $|$ \emph{\href{https://github.com/bhaskaraa45/url-shortener}{Source Code}} $|$ \emph{Go/Gin, ReactJs, PostgreSQL}} {}
+          \resumeItemListStart
+            \resumeItem{A web application designed to shrink large URLs and track the number of clicks on the generated short URLs.}
+            \resumeItem{Developed using Go/Gin as backend framework, PostgreSQL as database and ReactJS for frontend.}
+            \resumeItem{Cookie-based Google authentication for secure user access. And a subdomain utilization for efficient redirection.}
+            
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Hackathon Portal} $|$ \emph{\href{https://hackathon.bhaskaraa45.me/}{hackathon.bhaskaraa45.me}} $|$ \emph{Go/Gin, ReactJs, PostgreSQL, Supertokens}} {}
+          \resumeItemListStart
+            \resumeItem{Developed a comprehensive portal for conducting a hackathon organized by E-Cell, IIT Hyderabad in collaboration with NPCI. The portal features both participant and admin interfaces to facilitate smooth event management.}
+            \resumeItem{Utilized Next.js and Tailwind CSS for the frontend development. and Go-Gin framework and PostgreSQL for backend and database respectively.}
+            \resumeItem{Implemented secure authentication using Supertokens.}
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{ChatHub}} \hfill \color[HTML]{371e77} {\href{https://github.com/oAndBtech/private_chat}{Source Code}}\\[4pt]
-\color[HTML]{371e77}\textbf{\textit{A private cross-platform chat app }} \hfill \color[HTML]{4B28A4} \textit{Flutter, GoLang, PostgreSQL, FCM} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Used Flutter for frontend, GoLang (gorilla/mux) for backend and PSQL for database. Proper FCM (Firebase Cloud Messaging) implemented for notifications.
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+          \resumeItemListEnd
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{\href{https://www.picapool.com/}{PicaPool and PicaPool Partner}}} \hfill \color[HTML]{371e77} \\[4pt]
-\color[HTML]{371e77}\textbf{\textit{A pooling platform}} \hfill \color[HTML]{4B28A4} \textit{Flutter} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item I worked on frontend design, auth, socket, fcm and state management for both the app.
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+        \resumeProjectHeading
+          {\textbf{ChatHub} $|$ \emph{\href{https://github.com/oAndBtech/private_chat}{Source Code}} $|$ \emph{Flutter, Go Lang, FCM, Socket.IO}} {}
+          \resumeItemListStart
+            \resumeItem{ChatHub is designed to offer secure and efficient communication across multiple platforms.}
+            \resumeItem{Used Flutter for frontend, GoLang (gorilla/mux) for backend and PostgreSQL for database. And proper FCM (Firebase Cloud Messaging) implemented for notifications.}
+            \resumeItem{Implemented secure authentication using Supertokens.}
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{\href{https://sunshine.iith.ac.in/}{Sunshine App and Website}}} \hfill \color[HTML]{371e77} {\href{https://play.google.com/store/apps/details?id=com.sunshine.iith}{App Link}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{NextJs based static website and Flutter-Firebase mobile application}} \hfill \color[HTML]{4B28A4} \textit{NextJs, Flutter, Firebase, Dialogflow} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Full functional app with features of booking slot, and a ChatBot. 
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+          \resumeItemListEnd
 
+        \resumeProjectHeading
+          {\textbf{TicTacToe} $|$ \emph{\href{https://tictactoe.bhaskaraa45.me/}{tictactoe.bhaskaraa45.me}} $|$\emph{\href{https://github.com/bhaskaraa45/tic-tac-toe}{Source Code}} $|$ \emph{Go/Gin, ReactJs, PostgreSQL}} {}
+          \resumeItemListStart
+            \resumeItem{Multiplayer(2) tic tac toe online game.}
+            \resumeItem{Developed using Go-Gin frameworks as backend with Socket.IO for real time communication and React.JS for frontend.}
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{Initial Commit}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/initial-commit}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Firefox \& Chrome extension for finding initial commit of a public repo.)}} \hfill \color[HTML]{4B28A4} \textit{Javascript, Github APIs} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        % \item 
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+          \resumeItemListEnd
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{\href{https://tictactoe.bhaskaraa45.me/}{Tic-Tac-Toe}}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/tic-tac-toe}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Multiplayer(2) tic tac toe online game :)}} \hfill \color[HTML]{4B28A4} \textit{Golang(Gin), gorilla/mux socket, ReactJs} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        % \item just basic designed tic-tac-toe game
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+          \resumeProjectHeading
+          {\textbf{Code Revision} $|$\emph{\href{https://github.com/bhaskaraa45/CodeRevision-android-app}{Source Code}}  $|$ \emph{Java, XML, Firebase}} {}
+          \resumeItemListStart
+            \resumeItem{This is an android app, allows users to save, categorize, and revisit problems, along with features to add tried and wishlisted questions for better organization and revision.}
+            \resumeItem{Developed using Java and XML for the frontend and used Firebase for auth and database (RTDB).}
 
-\begin{tabularx}{\linewidth}{ @{}l r@{} }
-\color[HTML]{1C033C} \textbf{\uline{Gymtrack}} \hfill \color[HTML]{371e77} {\href{https://github.com/bhaskaraa45/gymtrack}{Source Code}}  \\[4pt] \color[HTML]{371e77} \textbf{\textit{Multiplayer(2) tic tac toe online game :)}} \hfill \color[HTML]{4B28A4} \textit{Golang(Gin), Flutter} \\[5pt]
-\begin{minipage}[t]{\linewidth}
-    \begin{itemize}[nosep,after=\strut, leftmargin=2em, itemsep=2pt]
-        \item Token based OAuth2, and used PSQL for the database
-    \end{itemize}
-    \end{minipage}
-\end{tabularx}
+          \resumeItemListEnd
 
-\color[HTML]{1C033C}\textbf{Few More Projects} \\[2pt]
-\color[HTML]{371e77} \hspace*{4ex} {\href{https://github.com/bhaskaraa45/filesharing}{File Sharing}}, {\href{https://github.com/bhaskaraa45/CodeRevision-android-app}{Code Revision}}\\[12pt]
+          
+    \resumeSubHeadingListEnd
 
 
-\section{Skills}
-\color[HTML]{1C033C}\textbf{Languages:} \\[2pt]
-\color[HTML]{371e77} \hspace*{4ex} Java, Go, C/C++, Python, Javascript, Dart, Typescript\\[3pt]
-\color[HTML]{1C033C}\textbf{Frontend:} \\[2pt]
-\color[HTML]{371e77} \hspace*{4ex} Flutter, ReactJs, Android Native (Java)\\[3pt]
-\color[HTML]{1C033C}\textbf{Backend \& Database:} \\[2pt]
-\color[HTML]{371e77} \hspace*{4ex} Go/Gin, FastAPI, PostgreSQL\\[3pt]
-\color[HTML]{1C033C}\textbf{Miscellaneous} \\[2pt]
-\color[HTML]{371e77} \hspace*{4ex} Git/Github, Linux, Firebase, Hosting, DialogFlow \\[3pt]
 
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Go, Java, Python, C/C++, Dart, SQL (Postgres), JavaScript, Typescript, HTML/CSS} \\
+     \textbf{Frameworks}{: Flutter, NextJS, Go-Gin, FastAPI, Node.js, Tailwind CSS} \\
+     \textbf{Developer Tools}{: Git/GitHub, Linux, Firebase, Google Cloud Platform, Docker, Microsoft Azure, Vercel, Cloudflare} \\
+     \textbf{Libraries}{: React JS, Express JS, NumPy, Matplotlib, Pandas}
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
 \end{document}
