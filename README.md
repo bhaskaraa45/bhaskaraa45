@@ -10,7 +10,9 @@
 </p>
 
 ### Social Profiles
-<p align="left"><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img  src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-linkedin.svg" height="50" alt="LinkedIn" ></a><a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-instagram.svg" height="50" alt="instagram" ></a><!-- <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-facebook.svg" height="50" alt="facebook"></a> --><a href="https://www.t.me/bhaskar_aa45/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-telegram-app.svg" height="50" alt ="telegram"></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/bhaskaraa45/" target="blank"><img  src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-linkedin.svg" height="50" alt="LinkedIn" ></a>
+<!--   <a href="https://www.instagram.com/bhaskar_aa45/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-instagram.svg" height="50" alt="instagram" ></a><!-- <a href="https://www.facebook.com/bhaskar45aa/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-facebook.svg" height="50" alt="facebook"></a> --> 
+<!--   <a href="https://www.t.me/bhaskar_aa45/" target="blank"><img src="https://raw.githubusercontent.com/bhaskaraa45/bhaskaraa45/main/icons/colored/icons8-telegram-app.svg" height="50" alt ="telegram"></a> </p> -->
 
 
 ### Coding Profiles
