@@ -2,6 +2,8 @@
 
 \- A Undergard Student at IIT Hyderabad
 <br/>
+\- Tech Cell Manager [@Office of Career Services (OCS), IIT Hyderabad](https://ocs.iith.ac.in)
+<br/>
 \- App Dev Head [@LambdaIITH](https://iith.dev), Web Head [@E-Cell-IITH](https://ecell.iith.ac.in)
 <br/>
 \- say 'hello' at [bhaskaraa45@duck.com](mailto:bhaskaraa45@duck.com)
