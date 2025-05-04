@@ -3,6 +3,8 @@
 \- A Undergard Student at IIT Hyderabad
 <br/>
 \- Tech Cell Manager [@Office of Career Services (OCS), IIT Hyderabad](https://ocs.iith.ac.in)
+<br />
+\- SDE Intern [@Pattern®](https://pattern.com)
 <br/>
 \- App Dev Head [@LambdaIITH](https://iith.dev), Web Head [@E-Cell-IITH](https://ecell.iith.ac.in)
 <br/>
