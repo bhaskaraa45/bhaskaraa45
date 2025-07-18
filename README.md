@@ -6,7 +6,7 @@
 <br />
 \- SDE Intern [@Pattern®](https://github.com/patterninc)
 <br/>
-\- App Dev Head [@LambdaIITH](https://iith.dev), Web Head [@E-Cell-IITH](https://github.com/E-Cell-IITH)
+\- Former Head [@LambdaIITH](https://iith.dev), Web Head [@E-Cell-IITH](https://github.com/E-Cell-IITH)
 <br/>
 \- say 'hello' at [bhaskaraa45@duck.com](mailto:bhaskaraa45@duck.com)
 
