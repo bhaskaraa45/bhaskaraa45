@@ -1,6 +1,6 @@
 # Hi, I'm Bhaskar
 
-\- A Undergard Student at [IIT Hyderabad](https://github.com/IITH)
+\- An Undergard Student at [IIT Hyderabad](https://github.com/IITH)
 <br/>
 \- Tech Cell Manager [@Office of Career Services (OCS), IIT Hyderabad](https://github.com/ocsIITH)
 <br />
